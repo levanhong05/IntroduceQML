@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/introduce">
+        <file>images/cover_image.png</file>
+        <file>images/logo.ico</file>
+        <file>images/logo.png</file>
+        <file>images/menu_indicator.png</file>
+        <file>images/social/facebook.png</file>
+        <file>images/social/linkedin.png</file>
+        <file>images/social/share.png</file>
+        <file>images/social/twitter.png</file>
+        <file>images/social/youtube.png</file>
+        <file>images/language/america.png</file>
+        <file>images/language/vietnam.png</file>
+        <file>images/close.png</file>
+        <file>images/settings/about.png</file>
+        <file>images/settings/translate.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>theme/AppTheme.qml</file>
+        <file>theme/qmldir</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>dialogs/AboutDialog.qml</file>
+        <file>dialogs/LanguageDialog.qml</file>
+        <file>sections/HeaderSection.qml</file>
+        <file>scripts/branding.js</file>
+        <file>scripts/setting.js</file>
+    </qresource>
+</RCC>
