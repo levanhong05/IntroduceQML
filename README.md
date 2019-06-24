@@ -8,7 +8,7 @@ This app needs Qt 5.10.0 Release or greater
 
 If not otherwise mentioned inside source files (*.cpp, *.h, *.qml):
 
-VietSpellApp is a product of **Eric Lee**, was developed by **Eric Lee**
+Introduce QML is a product of **Eric Lee**, was developed by **Eric Lee**
 
 Address: E-Town Complex, 364 Cong Hoa, Tan Binh District, Ho Chi Minh City, Vietnam
 
@@ -18,13 +18,13 @@ Address: E-Town Complex, 364 Cong Hoa, Tan Binh District, Ho Chi Minh City, Viet
 
 Copyright (c) 2018 Eric Lee. All right reserved.
 
-## Current Contributors to VietSpellApp
+## Current Contributors to Introduce QML
 
-VietSpellApp is developed by a team of developer who contribute their work to the project, with the support and consent of the companies that employ them.
+Introduce QML is developed by a team of developer who contribute their work to the project, with the support and consent of the companies that employ them.
 
 ### Main Contributors
 
-**1. Eric Lee** (Hong Le), Senior Developer/Supervisor (Vietnam): creator of VietSpellApp interface and its architect, active maintainer of VietSpellApp who manages issues.
+**1. Eric Lee** (Hong Le), Senior Developer/Supervisor (Vietnam): creator of Introduce QML interface and its architect, active maintainer of Introduce QML who manages issues.
 
 * Twitter: [@levanhong05](https://twitter.com/levanhong05)
 
