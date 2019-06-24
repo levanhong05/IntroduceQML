@@ -14,5 +14,6 @@
         <file>images/close.png</file>
         <file>images/settings/about.png</file>
         <file>images/settings/translate.png</file>
+        <file>translation/qml_vi.qm</file>
     </qresource>
 </RCC>
