@@ -16,7 +16,7 @@ Address: E-Town Complex, 364 Cong Hoa, Tan Binh District, Ho Chi Minh City, Viet
 
 [https://levanhong05.wordpress.com](https://levanhong05.wordpress.com)
 
-Copyright (c) 2018 Eric Lee. All right reserved.
+Copyright (c) 2019 Eric Lee. All right reserved.
 
 ## Current Contributors to Introduce QML
 
