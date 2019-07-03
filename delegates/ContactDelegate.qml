@@ -28,14 +28,26 @@ ItemDelegate {
     id: delegate
 
     checkable: true
+    checked: true
 
     contentItem: ColumnLayout {
-        Label {
-            text: name
-            font.pointSize: AppTheme.textSize16
-            font.bold: true
-            elide: Text.ElideRight
+        RowLayout {
             Layout.fillWidth: true
+
+            Label {
+                text: name
+                font.pointSize: AppTheme.textSize16
+                font.bold: true
+                elide: Text.ElideRight
+                Layout.fillWidth: true
+            }
+
+            Label {
+                text: national
+                font.pointSize: AppTheme.textSize15
+                color: "#9d9fab"
+                elide: Text.ElideRight
+            }
         }
 
         GridLayout {

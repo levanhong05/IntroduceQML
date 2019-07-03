@@ -157,6 +157,7 @@ Dialog {
 
         ListElement {
             name: "Eric Lee"
+            national: "Vietnam"
             image: "qrc:/introduce/images/social/facebook.png"
             email: "levanhong05@gmail.com"
             tel: "(84)0123456789"
@@ -164,6 +165,7 @@ Dialog {
 
         ListElement {
             name: "Bill Gate"
+            national: "United of America"
             image: "qrc:/introduce/images/social/twitter.png"
             email: "gate.bill@microsoft.com"
             tel: "123456789"
@@ -171,6 +173,7 @@ Dialog {
 
         ListElement {
             name: "Alon Musk"
+            national: "USA"
             image: "qrc:/introduce/images/social/youtube.png"
             email: "musk.alon@tessla.com"
             tel: "(19)11987456875"
