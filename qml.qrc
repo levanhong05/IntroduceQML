@@ -9,5 +9,7 @@
         <file>sections/HeaderSection.qml</file>
         <file>scripts/branding.js</file>
         <file>scripts/setting.js</file>
+        <file>dialogs/ContactDialog.qml</file>
+        <file>delegates/ContactDelegate.qml</file>
     </qresource>
 </RCC>

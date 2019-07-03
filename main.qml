@@ -84,6 +84,10 @@ ApplicationWindow {
         id: languageDialog
     }
 
+    ContactDialog {
+        id: contactDialog
+    }
+
     header: HeaderSection {
         id: headerBar
 
@@ -223,6 +227,38 @@ ApplicationWindow {
 
                             onClicked: {
                                 aboutDialog.open()
+                            }
+                        }
+                    }
+                }
+
+                RowLayout {
+                    Layout.fillWidth: true
+
+                    spacing: AppTheme.screenPadding
+
+                    Image {
+                        source: "qrc:/introduce/images/settings/about.png"
+
+                        Layout.preferredWidth: AppTheme.tscale(32)
+                        Layout.preferredHeight: AppTheme.tscale(32)
+                    }
+
+                    Label {
+
+                        text: qsTr("Contact book") + translator.tr
+                        font.pointSize: AppTheme.textSize18
+                        Layout.fillWidth: true
+                        verticalAlignment: Text.AlignVCenter
+
+                        MouseArea {
+                            anchors.fill: parent
+                            anchors.margins: 0
+                            hoverEnabled: true
+                            cursorShape: Qt.PointingHandCursor
+
+                            onClicked: {
+                                contactDialog.open()
                             }
                         }
                     }
