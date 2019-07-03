@@ -26,11 +26,13 @@ Introduce QML is developed by a team of developer who contribute their work to t
 
 **1. Eric Lee** (Hong Le), Senior Developer/Supervisor (Vietnam): creator of Introduce QML interface and its architect, active maintainer of Introduce QML who manages issues.
 
-* Twitter: [@levanhong05](https://twitter.com/levanhong05)
+* Facebook: [Eric Lee](https://www.facebook.com/levanhong05)
+
+* Twitter: [Eric Lee](https://twitter.com/levanhong05)
 
 * Github: [Eric Lee](https://github.com/levanhong05)
 
-* LinkedIn: [https://vi.linkedin.com/in/levanhong05](https://vi.linkedin.com/in/levanhong05)
+* LinkedIn: [Eric Lee](https://vi.linkedin.com/in/levanhong05)
 
 > “Good design is obvious. Great design is transparent.” – Joe Sparano
 
